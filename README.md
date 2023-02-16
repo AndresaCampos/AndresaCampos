@@ -19,7 +19,7 @@ It is easiest to reach me by email, but I can meet in person in the Pittsburgh a
 
 cv & publications
 
-My CV is available here.
+My CV is available [here](https://andresacampos.github.io/images/andresa_academic_CV_and_publications.pdf).
 
 You can see all of my papers on
 
