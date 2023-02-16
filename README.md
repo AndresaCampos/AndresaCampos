@@ -4,13 +4,13 @@ I am a Research Assistant and Ph.D. Candidate in Physics in the [McWilliams Cent
 
 I study large-scale structure and cosmology using large-area sky surveys, weak gravitational lensing, machine learning, statistics, and supercomputers. I work on the [Dark Energy Survey](https://www.darkenergysurvey.org) and am a member of the [LSST Dark Energy Science Collaboration](https://lsstdesc.org) focused on data from the [Vera C. Rubin Observatory Legacy Survey of Space and Time](https://www.lsst.org).
 
-# Contact Information
+#### Contact Information
 
 Andresa Rodrigues de Campos
 
 email: acampos [at] cmu [dot] edu
 
-# Schedule and Travel
+#### Schedule and Travel
 
 Brazil: March 18 - 31
 
@@ -18,7 +18,7 @@ Chicago, IL: May 8 - 12
 
 It is easiest to reach me by email, but I can meet in person in the Pittsburgh area.
 
-# CV & Publications
+#### CV & Publications
 
 My CV is available [here](https://andresacampos.github.io/images/andresa_academic_CV_and_publications.pdf).
 
