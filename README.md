@@ -12,8 +12,7 @@ email: acampos [at] cmu [dot] edu
 
 ### Schedule and Travel
 
-Brazil: March 18 - 31
-
+Brazil: March 18 - 31 <br />
 Chicago, IL: May 8 - 12
 
 It is easiest to reach me by email, but I can meet in person in the Pittsburgh area.
@@ -24,8 +23,8 @@ My CV is available [here](https://andresacampos.github.io/images/andresa_academi
 
 You can see all of my papers on
 
-[ADS](https://ui.adsabs.harvard.edu/public-libraries/wtkoyyzKQ8CFuBshlMYndg)
-[ORCID](https://orcid.org/0000-0002-5124-0771)
+[ADS](https://ui.adsabs.harvard.edu/public-libraries/wtkoyyzKQ8CFuBshlMYndg) <br />
+[ORCID](https://orcid.org/0000-0002-5124-0771) <br />
 [Google Scholar](https://scholar.google.com/citations?user=TSd8aKoAAAAJ&hl=en)
 
 
