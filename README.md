@@ -2,7 +2,7 @@
 
 I am a Research Assistant and Ph.D. Candidate in Physics in the [McWilliams Center for Cosmology](https://www.cmu.edu/cosmology/) at Carnegie Mellon University.
 
-I study large-scale structure and cosmology using large-area sky surveys, weak gravitational lensing, machine learning, statistics, and supercomputers. I work on the Dark Energy Survey and am a member of the LSST Dark Energy Science Collaboration focused on data from the Vera C. Rubin Observatory Legacy Survey of Space and Time.
+I study large-scale structure and cosmology using large-area sky surveys, weak gravitational lensing, machine learning, statistics, and supercomputers. I work on the [Dark Energy Survey](https://www.darkenergysurvey.org) and am a member of the [LSST Dark Energy Science Collaboration](https://lsstdesc.org) focused on data from the [Vera C. Rubin Observatory Legacy Survey of Space and Time](https://www.lsst.org).
 
 contact information
 
