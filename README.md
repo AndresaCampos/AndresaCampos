@@ -12,8 +12,8 @@ email: acampos [at] cmu [dot] edu
 
 ### Schedule and Travel
 
-Brazil: March 18 - 31 <br />
-Chicago, IL: May 8 - 12
+Brazil: March 18 - 31, 2023 <br />
+Chicago, IL: May 8 - 12, 2023
 
 It is easiest to reach me by email, but I can meet in person in the Pittsburgh area.
 
