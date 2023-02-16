@@ -6,7 +6,7 @@ I study large-scale structure and cosmology using large-area sky surveys, weak g
 
 contact information
 
-MSc. Andresa Rodrigues de Campos
+Andresa Rodrigues de Campos
 
 email: acampos [at] cmu [dot] edu
 
