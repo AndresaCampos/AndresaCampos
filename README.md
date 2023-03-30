@@ -14,7 +14,7 @@ email: acampos [at] cmu [dot] edu
 
 Brazil: March 18 - 31, 2023 <br />
 Chicago, IL: May 8 - 12, 2023 <br />
-Stockholm, Sweden: Jun 8 - 22, 2023
+Stockholm, Sweden: June 8 - 22, 2023
 
 It is easiest to reach me by email, but I can meet in person in the Pittsburgh area.
 
