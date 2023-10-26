@@ -14,13 +14,17 @@ email: acampos [at] cmu [dot] edu
 
 Brazil: March 18 - 31, 2023 <br />
 Chicago, IL: May 8 - 12, 2023 <br />
-Stockholm, Sweden: June 8 - 22, 2023
+Stockholm, Sweden: June 8 - 22, 2023 <br />
+Brazil: Sptember 22 - October 1, 2023 <br />
+Urbana-Champaign, IL: October 08 - 13, 2023 <br />
+Princeton, NJ: November 12 - 16, 2023 <br />
+Stockholm, Sweden: November 17 - 24, 2023 
 
 It is easiest to reach me by email, but I can meet in person in the Pittsburgh area.
 
-### CV & Publications
+### Resume & Publications
 
-My CV is available [here](https://andresacampos.github.io/images/andresa_academic_CV_and_publications.pdf).
+My Resume is available [here](https://andresacampos.github.io/images/resume_acampos.pdf).
 
 You can see all of my papers on
 
